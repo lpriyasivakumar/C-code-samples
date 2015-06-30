@@ -1,0 +1,6 @@
+c:\users\lakshmipriya\documents\visual studio 2013\Projects\Module8\Module8\bin\Debug\Module8.exe.config
+c:\users\lakshmipriya\documents\visual studio 2013\Projects\Module8\Module8\bin\Debug\Module8.exe
+c:\users\lakshmipriya\documents\visual studio 2013\Projects\Module8\Module8\bin\Debug\Module8.pdb
+c:\users\lakshmipriya\documents\visual studio 2013\Projects\Module8\Module8\obj\Debug\Module8.csprojResolveAssemblyReference.cache
+c:\users\lakshmipriya\documents\visual studio 2013\Projects\Module8\Module8\obj\Debug\Module8.exe
+c:\users\lakshmipriya\documents\visual studio 2013\Projects\Module8\Module8\obj\Debug\Module8.pdb
